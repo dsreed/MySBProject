@@ -15,7 +15,7 @@
 
     <packaging>sbar</packaging>
 
-    <build> 
+  <!--  <build> 
      <plugins> 
 <plugin> 
 <groupId>com.oracle.servicebus.plugin</groupId> 
@@ -28,7 +28,7 @@
 </configuration> 
 </plugin> 
 </plugins> 
-</build>
+</build>-->
     <description/>
 
 </project>
