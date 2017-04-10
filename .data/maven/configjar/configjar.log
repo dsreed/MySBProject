@@ -1,0 +1,5 @@
+<Apr 10, 2017, 11:56:44,198 AM CDT> <Info> <oracle.osb.tools-configjar> <BEA-000000> <The temporary directory (C:\JDeveloper\mywork\MyServiceBusApplication\MySBProject\.data\maven\configjar\configfwk\osbinstance1491843404146\OSB11gConfig) has been created for the configuration framework data. This directory will not be automatically deleted.> 
+<Apr 10, 2017, 11:56:44,373 AM CDT> <Info> <oracle.osb.offline.kernel-offline.kerneloffline> <OSB-2030850> <Initializing ALSB in offline mode. Install dir: C:\Oracle\MIDDLE~1\ORACLE~1\osb config dir: C:\JDeveloper\mywork\MyServiceBusApplication\MySBProject\.data\maven\configjar\configfwk\osbinstance1491843404146\OSB11gConfig> 
+<Apr 10, 2017, 11:57:02,735 AM CDT> <Info> <oracle.osb.tools-configjar> <BEA-000000> <OSB offline instance has started.> 
+<Apr 10, 2017, 11:57:04,149 AM CDT> <Info> <oracle.osb.tools-configjar> <BEA-000000> <OSB Config Jar C:\JDeveloper\mywork\MyServiceBusApplication\MySBProject\.data\maven\sbconfig.sbar has been created successfully.> 
+<Apr 10, 2017, 11:57:04,203 AM CDT> <Info> <oracle.osb.tools-configjar> <BEA-000000> <Config Jar tool completed.> 
