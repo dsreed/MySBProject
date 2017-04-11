@@ -18,7 +18,7 @@
     <repository>
       <id>central</id>
       <name>Central Repository</name>
-      <url>C:\Users\Raman\.m2\repository</url>
+      <url>file://C:\Users\Raman\.m2\repository</url>
       <layout>default</layout>
       <snapshots>
         <enabled>false</enabled>
@@ -30,7 +30,7 @@
     <pluginRepository>
       <id>central</id>
       <name>Central Repository</name>
-      <url>C:\Users\Raman\.m2\repository</url>
+      <url>file://C:\Users\Raman\.m2\repository</url>
       <layout>default</layout>
       <snapshots>
         <enabled>false</enabled>
